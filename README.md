@@ -3,6 +3,8 @@ A compact renderer that implements Next Event Estimation along with a buntch of 
 
 The following displays may contain some noise points, as this is just a demonstration rendered with 4 samples per pixel (spp). Increasing the number of samples per pixel will reduce these noise points.
 
+To run the program, download source code of glm from [Here](https://github.com/g-truc/glm/tree/master/glm) and put the forder into "extertals".
+
 - Glossy Material ( Implemented with Disney Principal BRDF)
   
   ![image](https://github.com/user-attachments/assets/f4129fa5-8ec9-47d2-be6f-7df9a4473ade)
