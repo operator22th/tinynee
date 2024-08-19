@@ -1,5 +1,3 @@
-//独立实现
-
 #pragma once
 #include "../externals/glm/glm.hpp"
 #include <random>

@@ -1,4 +1,3 @@
-//独立实现
 #include "include/renderer_legacy.h" //change this to include/renderer.h if you want to use the new renderer;
                                      // but remember to change light emission because the old one forget to
                                      // divide pdf

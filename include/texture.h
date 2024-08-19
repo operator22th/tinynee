@@ -1,6 +1,3 @@
-//从texture里读取对应color的这部分代码 参考了往届学长代码实现 https://github.com/Guangxuan-Xiao/THU-Computer-Graphics-2020
-//其他和纹理相关的代码独立实现
-
 #pragma once
 #include "../externals/glm/glm.hpp"
 #define STB_IMAGE_IMPLEMENTATION
@@ -8,9 +5,7 @@
 #include <cstring>
 using namespace glm;
 
-// Fixme: change it
-
-class Texture {  // 纹理
+class Texture { 
 public:
     unsigned char *pic;
     int w, h, c;

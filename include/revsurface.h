@@ -1,4 +1,4 @@
-//参考了往届学长代码实现 https://github.com/Guangxuan-Xiao/THU-Computer-Graphics-2020
+//implemented on the base of https://github.com/Guangxuan-Xiao/THU-Computer-Graphics-2020
 
 #pragma once
 #include "../externals/glm/gtc/matrix_transform.hpp"

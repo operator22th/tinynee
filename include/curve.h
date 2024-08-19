@@ -1,6 +1,3 @@
-// 来源：PA2自己的实现
-// 独立实现
-
 #pragma once
 
 #include "shape.h"

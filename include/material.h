@@ -1,4 +1,3 @@
-//独立实现
 #include "util.h"
 #include <cmath>
 #include "../externals/glm/glm.hpp"

@@ -1,4 +1,3 @@
-//独立实现
 #pragma once
 #include <iostream>
 #include <cmath>

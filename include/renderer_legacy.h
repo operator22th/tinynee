@@ -1,4 +1,4 @@
-//基于smallpt独立实现
+// implemented on the base of https://www.kevinbeason.com/smallpt/
 
 #pragma once
 #include <vector>

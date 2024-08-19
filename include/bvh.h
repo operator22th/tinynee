@@ -1,5 +1,3 @@
-//独立实现
-
 #pragma once
 #include <algorithm>
 #include "shape.h"

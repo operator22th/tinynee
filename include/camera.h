@@ -1,5 +1,3 @@
-// 独立实现
-
 #pragma once
 #include "../externals/glm/glm.hpp"
 #include "util.h"
@@ -10,8 +8,8 @@ protected:
     vec3 forward;
     vec3 right;
     vec3 up;
-    float time0; // for motion blur 开始时间
-    float time1; // 结束时间
+    float time0; // for motion blur
+    float time1; 
 
 public:
     Camera(const vec3& position, const vec3& forward, float t0, float t1): position(position), forward(forward) {
